@@ -1,0 +1,11 @@
+{
+  "name": "spring-petclinic",
+  "authors": [
+    "renato.camara@oracle.com"
+  ],
+  "dependencies": {
+   "bootstrap": "~2.3.0",
+   "jquery": "~2.0.3",
+   "jquery-ui": "~1.10.3"
+  }
+}

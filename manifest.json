@@ -1,0 +1,12 @@
+{
+	"runtime": {
+		"majorVersion": "8"
+	},
+	"command": "sh start.sh",
+	"release": {
+		"build": "1",
+		"commit": "1",
+		"version": "1"
+	},
+	"notes": "TomcatPetClinic Web application that implements JPA for demo"
+}

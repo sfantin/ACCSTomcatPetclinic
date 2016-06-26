@@ -1,0 +1,4 @@
+CREATE USER petclinic IDENTIFIED BY petclinic ;
+DEFAULT TABLESPACE users
+TEMPORARY TABLESPACE temp;
+GRANT "DBA" TO petclinic ;
