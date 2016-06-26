@@ -4,7 +4,7 @@
 export ID_DOMAIN=$1
 export USER_ID=$2
 export USER_PASSWORD=$3
-export APP_NAME="TomcatPetClinic"
+export APP_NAME="ACCSTomcatPetclinic"
 
 export RUNTIME="java"
 export APAAS_HOST=apaas.us.oraclecloud.com
